@@ -25,4 +25,6 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:23.1.1'
     compile 'com.android.support:design:23.1.1'
     compile 'com.android.support:customtabs:23.1.1'
+//    compile 'com.github.marchuck:blue-duff:v1.0.1'
+    compile 'com.github.Marchuck:blueduff:v1.0.3'
 }
